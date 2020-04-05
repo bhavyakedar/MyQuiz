@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyQuiz</string>
+    <string name="q1">Who is the CEO of Google ?</string>
+    <string name="q1op1">Elon Musk</string>
+    <string name="q1op2">Sundar Pichai</string>
+    <string name="q1op3">Jeff Bezos</string>
+    <string name="q1op4">Steve Jobs</string>
+    <string name="q2">Who was the founder of APPLE.INC ?</string>
+</resources>
